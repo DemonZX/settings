@@ -1,0 +1,25 @@
+{
+    "installed_packages":
+    [
+        "All Autocomplete",
+        "Emmet",
+        "Mercurial",
+        "Package Control",
+        "Pylinter",
+        "SFTP",
+        "SublimeCodeIntel",
+        "SublimeREPL",
+        "Theme - Soda",
+        "Tomorrow Color Schemes"
+    ],
+    "repositories":
+    [
+        "https://github.com/alienhard/SublimeAllAutocomplete",
+        "https://github.com/theymaybecoders/sublime-tomorrow-theme",
+        "https://github.com/titoBouzout/SideBarEnhancements",
+        "https://github.com/Kronuz/SublimeCodeIntel",
+        "https://github.com/wuub/SublimeREPL",
+        "https://github.com/jisaacks/GitGutter",
+        "https://github.com/biermeester/Pylinter"
+    ]
+}
